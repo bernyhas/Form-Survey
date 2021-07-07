@@ -24,8 +24,6 @@ git clone to copy the repo on your local PC
 
 Run Live-Server extension to lauch the apps
 
-### Run tests
-
 ### Deployment
 
 ## Authors
